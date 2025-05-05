@@ -1,2 +1,2 @@
 # Voice_Assistant
-using Deepgram
+Using Deepgram, Elevenlabs
